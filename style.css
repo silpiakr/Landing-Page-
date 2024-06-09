@@ -1,0 +1,15 @@
+.sAkr-bg{
+    background-color: #03c0c0;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.sAkr-btn{
+    font-weight:900;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: none;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px 7px 10px;
+    background-color: rgb(245, 182, 46);
+}
